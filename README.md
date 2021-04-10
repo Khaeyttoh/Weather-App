@@ -30,7 +30,7 @@ __Weather App__
  
 ## Authors
 - ##### 
-- ##### 
+- ##### Satveer. S
 - ##### Keto .A.
 
 
